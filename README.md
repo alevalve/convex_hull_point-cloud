@@ -12,13 +12,11 @@
 
   ## 📁 Project Structure
 
-├── main.py # Entry point: loads, filters, evaluates, and saves results 
+- main.py # Entry point: loads, filters, evaluates, and saves results 
 
-├── hull_method.py # HullRemoval class for convex hull filtering
+- hull_method.py # HullRemoval class for convex hull filtering
 
-├── metrics.py # ChamferDistance and NormalConsistency metrics
-
-└── convex_pc.ply # Output filtered point cloud (auto-generated)
+- metrics.py # ChamferDistance and NormalConsistency metrics
 
 ## Usage
 
