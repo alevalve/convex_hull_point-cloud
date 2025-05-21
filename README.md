@@ -1,6 +1,6 @@
   # Convex-Guided Outlier Removal for 3D Point Clouds
 
-![Pipeline_v2_pages-to-jpg-0001-removebg-preview-2](https://github.com/user-attachments/assets/04a7a935-2036-4822-bc8d-6ea0d1210e93)
+![Pipeline_v2_pages-to-jpg-0001](https://github.com/user-attachments/assets/f5382705-783c-4dbc-b76d-360dbb4edf1f)
 
   The Convex-Guided Outlier Removal method estimates a convex hull around the input point cloud and removes points that lie too close to or outside the boundary. 
   This is particularly useful for eliminating surface noise or spurious outliers from Structure-from-Motion (SfM) outputs.
