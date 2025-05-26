@@ -14,7 +14,7 @@ def point_cloud(raw):
     hull_remover = HullRemoval(raw_pc)
     _, _, clean_pc  = hull_remover.forward()
 
-    o3d.io_write_point_cloud("convex_pc.ply", clean_pc)
+    o3d.io.write_point_cloud("convex_pc.ply", clean_pc)
     
     return raw_pc, clean_pc
 
