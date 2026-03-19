@@ -54,6 +54,7 @@ Measures cosine similarity between normals at nearest neighbors in both directio
 
 ## Author:
 Alexander Valverde
+
 Feel free to reach out for academic or research collaboration.
 
 
